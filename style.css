@@ -1,2 +1,6 @@
-      h2{color: red}
-      ol{background: lightgrey}
+.intro{color: red;}
+.food{color: blue;}
+.links{color: green}
+h2{border: 1px solid black;}      
+.how{color: red}
+.who{color: blue}
